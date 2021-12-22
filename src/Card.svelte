@@ -3,6 +3,7 @@
   export let title;
 </script>
 
+<center>
 <body>
   <h2>{title}</h2> 
   <i>Jamy - Épicurieux | culture général</i>
@@ -40,6 +41,7 @@
   J'ai pensé que cette vidéo est intéressant. J'ai aimé l'histoire que Jamy a raconté parce que ça montre que les choses ordinaires ont des histoires extraordinaires. Après j'ai regardé la vidéo, j'ai aussi un peu faim.
   </p>
 </body>
+</center>
 
 <style>
   body {
