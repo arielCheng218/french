@@ -39,7 +39,6 @@
   <p>
   J'ai pensé que cette vidéo est intéressant. J'ai aimé l'histoire que Jamy a raconté parce que ça montre que les choses ordinaires ont des histoires extraordinaires. Après j'ai regardé la vidéo, j'ai aussi un peu faim.
   </p>
-  <br>
 </body>
 
 <style>
