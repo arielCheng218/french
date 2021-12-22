@@ -4,10 +4,11 @@
 </script>
 
 <body>
-  <h2>{title}</h2>
+  <h2>{title}</h2> 
   <h4>Mentionnez les thèmes de la vidéo.</h4>
+  <i>Jamy - Épicurieux | culture général</i>
   <p>
-  Les croissants et la culture française...
+  Les croissants et la culture française.
   </p>
   <h4>Résumez la vidéo en un paragraphe.</h4>
   <p>
