@@ -50,7 +50,7 @@
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: #444444;
-    max-width: 800px;
+    max-width: 1000px;
     text-align: left;
   }
   h2 {
