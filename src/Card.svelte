@@ -7,6 +7,7 @@
   <h2>{title}</h2> 
   <i>Jamy - Épicurieux | culture général</i>
   <br>
+  <br>
   <h4>Mentionnez les thèmes de la vidéo.</h4>
   <p>
   Les croissants et la culture française.
