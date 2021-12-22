@@ -1,16 +1,21 @@
+<script>
+	import Card from "./Card.svelte";
+</script>
 
 <body>
 	<main>
-		<h1>mon blog de français</h1>
-		Bonjour
+		<h1>
+			mon blog de français.
+		</h1>
+		<hr class="solid">
 	</main>
+	<Card title="Hello" body="hkjhdjh lkasjdhaklsjd lkjshdlak j"></Card>
 </body>
 
 <style>
 	main {
 		text-align: center;
 		padding: 1em;
-		max-width: 240px;
 		top: 40px;
 		margin: 0 auto;
 	}
@@ -18,8 +23,9 @@
 	h1 {
 		color: #ffffff;
 		text-align: center;
-		font-size: 22px;
-		font-weight: 700;
 	}
 
+	hr.solid {
+  	border-top: 2px solid #ffffff;
+	}
 </style>
