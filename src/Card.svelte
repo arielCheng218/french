@@ -13,7 +13,7 @@
   <p>
   Dans cette vidéo, le présentateur Jamy raconte l'histoire d'origine du croissant.
   </p>
-  <h4>Rappelez les points principaux (les arguments de l’auteur) sous forme de plan.</h3>
+  <h4>Rappelez les points principaux (les arguments de l’auteur) sous forme de plan.</h4>
   <p>
   <ul>
   <li>Introduction</li>
