@@ -10,7 +10,7 @@
 		</h1>
 		<hr class="solid">
 	</main>
-	<Card title="Hello"></Card>
+	<Card title="🥐 D'où vient le croissant ?"></Card>
 </body>
 
 <style>
