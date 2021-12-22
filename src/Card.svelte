@@ -27,8 +27,6 @@
   <li>mais c'est seulement une histoire (pas vrai)</li>
   <li>server les croissant dans les cérémonies réligieux</li>
   </ul> 
-  </ul>
-  </p>
   <h4>
   Faites le bilan : Que pensez-vous de cette vidéo, avez-vous appris des choses nouvelles (développez)?
   </h4>
