@@ -51,6 +51,7 @@
     padding-bottom: 10px;
     background-color: #444444;
     max-width: 800px;
+    text-align: left;
   }
   h2 {
     color: white;
