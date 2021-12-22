@@ -48,6 +48,7 @@
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: #444444;
+    max-width: 800px;
   }
   h2 {
     color: white;
